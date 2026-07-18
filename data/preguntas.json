@@ -1,27 +1,302 @@
 [
-  {
-    "categoria": "🔵 Personajes",
-    "pregunta": "¿Quién construyó el arca?",
-    "respuesta": "Noé"
-  },
-  {
-    "categoria": "🔴 Eventos",
-    "pregunta": "¿Dónde nació Jesús?",
-    "respuesta": "Belén"
-  },
-  {
-    "categoria": "🟢 Versículos",
-    "pregunta": "Completa: Jehová es mi...",
-    "respuesta": "Pastor"
-  },
-  {
-    "categoria": "🟡 Mímica",
-    "pregunta": "Representa a David venciendo a Goliat.",
-    "respuesta": "David y Goliat"
-  },
-  {
-    "categoria": "🟣 Canción",
-    "pregunta": "Canta una alabanza sobre el amor de Dios.",
-    "respuesta": "Respuesta libre"
-  }
+{
+  "categoria": "🔵 Personajes",
+  "pregunta": "¿Quién construyó el arca?",
+  "respuesta": "Noé"
+},
+{
+  "categoria": "🔵 Personajes",
+  "pregunta": "¿Quién fue tragado por un gran pez?",
+  "respuesta": "Jonás"
+},
+{
+  "categoria": "🔵 Personajes",
+  "pregunta": "¿Quién derrotó a Goliat?",
+  "respuesta": "David"
+},
+{
+  "categoria": "🔵 Personajes",
+  "pregunta": "¿Quién interpretó los sueños del faraón?",
+  "respuesta": "José"
+},
+{
+  "categoria": "🔵 Personajes",
+  "pregunta": "¿Quién recibió los Diez Mandamientos?",
+  "respuesta": "Moisés"
+},
+{
+  "categoria": "🔵 Personajes",
+  "pregunta": "¿Quién negó tres veces a Jesús?",
+  "respuesta": "Pedro"
+},
+{
+  "categoria": "🔵 Personajes",
+  "pregunta": "¿Quién fue el hombre más sabio de Israel?",
+  "respuesta": "Salomón"
+},
+{
+  "categoria": "🔵 Personajes",
+  "pregunta": "¿Quién bautizó a Jesús?",
+  "respuesta": "Juan el Bautista"
+},
+{
+  "categoria": "🔵 Personajes",
+  "pregunta": "¿Quién fue la madre de Samuel?",
+  "respuesta": "Ana"
+},
+{
+  "categoria": "🔵 Personajes",
+  "pregunta": "¿Quién fue el padre de Isaac?",
+  "respuesta": "Abraham"
+},
+{
+  "categoria": "🔴 Eventos",
+  "pregunta": "¿Dónde nació Jesús?",
+  "respuesta": "Belén"
+},
+{
+  "categoria": "🔴 Eventos",
+  "pregunta": "¿Cuántos días y noches llovió durante el diluvio?",
+  "respuesta": "40 días y 40 noches"
+},
+{
+  "categoria": "🔴 Eventos",
+  "pregunta": "¿Qué ciudad cayó después de que Israel marchó siete días alrededor de ella?",
+  "respuesta": "Jericó"
+},
+{
+  "categoria": "🔴 Eventos",
+  "pregunta": "¿Cuál fue el primer milagro de Jesús?",
+  "respuesta": "Convertir el agua en vino"
+},
+{
+  "categoria": "🔴 Eventos",
+  "pregunta": "¿Qué mar abrió Dios por medio de Moisés?",
+  "respuesta": "Mar Rojo"
+},
+{
+  "categoria": "🔴 Eventos",
+  "pregunta": "¿Qué alimento cayó del cielo para Israel?",
+  "respuesta": "Maná"
+},
+{
+  "categoria": "🔴 Eventos",
+  "pregunta": "¿Quién resucitó a Lázaro?",
+  "respuesta": "Jesús"
+},
+{
+  "categoria": "🔴 Eventos",
+  "pregunta": "¿Qué río cruzó Israel para entrar en Canaán?",
+  "respuesta": "Jordán"
+},
+{
+  "categoria": "🔴 Eventos",
+  "pregunta": "¿Qué discípulo caminó sobre el agua?",
+  "respuesta": "Pedro"
+},
+{
+  "categoria": "🔴 Eventos",
+  "pregunta": "¿En qué monte recibió Moisés los Diez Mandamientos?",
+  "respuesta": "Monte Sinaí"
+},
+{
+  "categoria": "🟢 Versículos",
+  "pregunta": "Completa: 'Jehová es mi...'",
+  "respuesta": "Pastor"
+},
+{
+  "categoria": "🟢 Versículos",
+  "pregunta": "Completa: 'Porque de tal manera amó Dios al...'",
+  "respuesta": "Mundo"
+},
+{
+  "categoria": "🟢 Versículos",
+  "pregunta": "¿Quién dijo: 'Yo soy el camino, la verdad y la vida'?",
+  "respuesta": "Jesús"
+},
+{
+  "categoria": "🟢 Versículos",
+  "pregunta": "¿Cuál es el mayor mandamiento?",
+  "respuesta": "Amar a Dios sobre todas las cosas"
+},
+{
+  "categoria": "🟢 Versículos",
+  "pregunta": "¿Cuál es el segundo mandamiento?",
+  "respuesta": "Amar al prójimo como a ti mismo"
+},
+{
+  "categoria": "🟢 Versículos",
+  "pregunta": "¿Cuántos libros tiene la Biblia protestante?",
+  "respuesta": "66"
+},
+{
+  "categoria": "🟢 Versículos",
+  "pregunta": "¿Cuál es el libro más largo de la Biblia?",
+  "respuesta": "Salmos"
+},
+{
+  "categoria": "🟢 Versículos",
+  "pregunta": "¿Cuál es el libro más corto del Nuevo Testamento?",
+  "respuesta": "3 Juan"
+},
+{
+  "categoria": "🟢 Versículos",
+  "pregunta": "¿Quién escribió la mayoría de las cartas del Nuevo Testamento?",
+  "respuesta": "Pablo"
+},
+{
+  "categoria": "🟢 Versículos",
+  "pregunta": "Menciona tres frutos del Espíritu.",
+  "respuesta": "Amor, gozo, paz (entre otros)"
+},
+{
+  "categoria": "🟡 Mímica",
+  "pregunta": "Representa a Noé construyendo el arca.",
+  "respuesta": "Noé"
+},
+{
+  "categoria": "🟡 Mímica",
+  "pregunta": "Representa a David derrotando a Goliat.",
+  "respuesta": "David y Goliat"
+},
+{
+  "categoria": "🟡 Mímica",
+  "pregunta": "Representa a Daniel en el foso de los leones.",
+  "respuesta": "Daniel"
+},
+{
+  "categoria": "🟡 Mímica",
+  "pregunta": "Representa a Jonás dentro del gran pez.",
+  "respuesta": "Jonás"
+},
+{
+  "categoria": "🟡 Mímica",
+  "pregunta": "Representa a Moisés abriendo el Mar Rojo.",
+  "respuesta": "Moisés"
+},
+{
+  "categoria": "🟡 Mímica",
+  "pregunta": "Representa la caída de los muros de Jericó.",
+  "respuesta": "Jericó"
+},
+{
+  "categoria": "🟡 Mímica",
+  "pregunta": "Representa la multiplicación de los panes y los peces.",
+  "respuesta": "Jesús"
+},
+{
+  "categoria": "🟡 Mímica",
+  "pregunta": "Representa el nacimiento de Jesús.",
+  "respuesta": "Nacimiento de Jesús"
+},
+{
+  "categoria": "🟡 Mímica",
+  "pregunta": "Representa a Pedro caminando sobre el agua.",
+  "respuesta": "Pedro"
+},
+{
+  "categoria": "🟡 Mímica",
+  "pregunta": "Representa la resurrección de Lázaro.",
+  "respuesta": "Lázaro"
+},
+{
+  "categoria": "🟣 Canción",
+  "pregunta": "Canta una canción que hable del amor de Dios.",
+  "respuesta": "Respuesta libre"
+},
+{
+  "categoria": "🟣 Canción",
+  "pregunta": "Canta una canción sobre la cruz.",
+  "respuesta": "Respuesta libre"
+},
+{
+  "categoria": "🟣 Canción",
+  "pregunta": "Canta una canción acerca del Espíritu Santo.",
+  "respuesta": "Respuesta libre"
+},
+{
+  "categoria": "🟣 Canción",
+  "pregunta": "Canta una canción basada en un Salmo.",
+  "respuesta": "Respuesta libre"
+},
+{
+  "categoria": "🟣 Canción",
+  "pregunta": "Canta una canción que mencione la gracia de Dios.",
+  "respuesta": "Respuesta libre"
+},
+{
+  "categoria": "🟣 Canción",
+  "pregunta": "Canta una canción que hable de la fe.",
+  "respuesta": "Respuesta libre"
+},
+{
+  "categoria": "🟣 Canción",
+  "pregunta": "Canta una canción sobre la resurrección.",
+  "respuesta": "Respuesta libre"
+},
+{
+  "categoria": "🟣 Canción",
+  "pregunta": "Canta una canción navideña cristiana.",
+  "respuesta": "Respuesta libre"
+},
+{
+  "categoria": "🟣 Canción",
+  "pregunta": "Canta una alabanza conocida por toda la iglesia.",
+  "respuesta": "Respuesta libre"
+},
+{
+  "categoria": "🟣 Canción",
+  "pregunta": "Canta un coro infantil cristiano.",
+  "respuesta": "Respuesta libre"
+},
+{
+  "categoria": "🟠 Desafío",
+  "pregunta": "Menciona 10 libros del Nuevo Testamento en 30 segundos.",
+  "respuesta": "Respuesta libre"
+},
+{
+  "categoria": "🟠 Desafío",
+  "pregunta": "Menciona 8 mujeres de la Biblia.",
+  "respuesta": "Respuesta libre"
+},
+{
+  "categoria": "🟠 Desafío",
+  "pregunta": "Ordena cronológicamente: Abraham, Moisés, David, Jesús.",
+  "respuesta": "Abraham, Moisés, David, Jesús"
+},
+{
+  "categoria": "🟠 Desafío",
+  "pregunta": "Ordena: Nacimiento de Jesús, Crucifixión, Resurrección, Pentecostés.",
+  "respuesta": "Nacimiento, Crucifixión, Resurrección, Pentecostés"
+},
+{
+  "categoria": "🟠 Desafío",
+  "pregunta": "Menciona cinco milagros realizados por Jesús.",
+  "respuesta": "Respuesta libre"
+},
+{
+  "categoria": "🟠 Desafío",
+  "pregunta": "Menciona los cuatro Evangelios.",
+  "respuesta": "Mateo, Marcos, Lucas y Juan"
+},
+{
+  "categoria": "🟠 Desafío",
+  "pregunta": "Verdadero o falso: Sansón perdió su fuerza cuando le cortaron el cabello.",
+  "respuesta": "Verdadero"
+},
+{
+  "categoria": "🟠 Desafío",
+  "pregunta": "Verdadero o falso: Lucas fue uno de los doce discípulos.",
+  "respuesta": "Falso"
+},
+{
+  "categoria": "🟠 Desafío",
+  "pregunta": "¿Quién soy? Fui pastor, derroté un gigante y llegué a ser rey.",
+  "respuesta": "David"
+},
+{
+  "categoria": "🟠 Desafío",
+  "pregunta": "¿Quién soy? Construí un arca por mandato de Dios.",
+  "respuesta": "Noé"
+}
 ]
