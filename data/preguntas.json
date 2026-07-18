@@ -1,0 +1,27 @@
+[
+  {
+    "categoria": "🔵 Personajes",
+    "pregunta": "¿Quién construyó el arca?",
+    "respuesta": "Noé"
+  },
+  {
+    "categoria": "🔴 Eventos",
+    "pregunta": "¿Dónde nació Jesús?",
+    "respuesta": "Belén"
+  },
+  {
+    "categoria": "🟢 Versículos",
+    "pregunta": "Completa: Jehová es mi...",
+    "respuesta": "Pastor"
+  },
+  {
+    "categoria": "🟡 Mímica",
+    "pregunta": "Representa a David venciendo a Goliat.",
+    "respuesta": "David y Goliat"
+  },
+  {
+    "categoria": "🟣 Canción",
+    "pregunta": "Canta una alabanza sobre el amor de Dios.",
+    "respuesta": "Respuesta libre"
+  }
+]
