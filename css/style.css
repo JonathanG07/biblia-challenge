@@ -1,3 +1,128 @@
-body{font-family:Arial;background:#10243f;color:#fff;text-align:center;padding:30px}
-.card{margin:20px auto;padding:20px;max-width:700px;background:#1e3d68;border-radius:12px;font-size:28px}
-button{padding:12px 20px;margin:8px;font-size:18px}#timer{font-size:40px;margin-top:20px}
+*{
+    box-sizing:border-box;
+}
+
+
+body{
+    font-family:Arial, sans-serif;
+    background:#10243f;
+    color:white;
+    text-align:center;
+    padding:20px;
+    margin:0;
+}
+
+
+/* Título */
+h1{
+    font-size:clamp(28px, 6vw, 45px);
+}
+
+
+/* Tarjeta de pregunta */
+.card{
+
+    width:90%;
+    max-width:700px;
+
+    margin:20px auto;
+
+    padding:25px;
+
+    background:#1e3d68;
+
+    border-radius:15px;
+
+    font-size:clamp(20px, 5vw, 32px);
+
+    min-height:180px;
+
+    display:flex;
+
+    flex-direction:column;
+
+    justify-content:center;
+
+}
+
+
+/* Botones */
+button{
+
+    width:90%;
+    max-width:350px;
+
+    padding:15px;
+
+    margin:10px auto;
+
+    display:block;
+
+    font-size:20px;
+
+    border:none;
+
+    border-radius:10px;
+
+    cursor:pointer;
+
+}
+
+
+/* Temporizador */
+#timer{
+
+    font-size:clamp(35px, 10vw, 60px);
+
+    margin-top:20px;
+
+    font-weight:bold;
+
+}
+
+
+/* Respuesta */
+#resp{
+
+    width:90%;
+
+    max-width:700px;
+
+    margin:20px auto;
+
+    font-size:clamp(20px, 5vw, 30px);
+
+}
+
+
+
+/* Ajustes específicos para celulares */
+@media(max-width:600px){
+
+    body{
+        padding:10px;
+    }
+
+
+    .card{
+
+        width:95%;
+
+        padding:20px;
+
+        min-height:220px;
+
+    }
+
+
+    button{
+
+        width:95%;
+
+        font-size:18px;
+
+        padding:14px;
+
+    }
+
+}
